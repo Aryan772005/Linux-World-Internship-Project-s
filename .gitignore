@@ -1,3 +1,5 @@
 *.csv
 *.pkl
 
+.pkl was around of 500 mb 
+so git hub dont allowed me to push so i added it into git inore
